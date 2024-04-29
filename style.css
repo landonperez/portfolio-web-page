@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin: 0px;
+}
+
+header{
+  text-align: center;
+  color: lightslategray;
+  background-color: black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  display: block;
+}
+
+h1{
+  font-family: tahoma, verdana, georgia;
+}
+
+h2{
+  text-align: center;
+}
+
+li, p {
+  text-align: center;
+  list-style-position: inside;
+  font-family: sans-serif;
+}
+
+main{
+  background-color: lightslategray;
+  margin: 0px;
+  padding: 20px;
+}
+
+footer{
+  background-color: black;
+  color: lightslategray;
+  text-align: right;
+  margin: 0px;
+  padding: 5px;
+  font-size: 10px;
+}
+
+hr{
+  height: 0px;
+  background-color: black;
+  margin-top: 30px;  
+  margin-bottom: 30px;
+}
+
+a:link {color: blue}
+a:visited {color: purple}
+a:hover {color: green}
+a:active {color: red}
